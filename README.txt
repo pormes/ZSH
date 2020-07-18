@@ -15,7 +15,7 @@ pkg install -y libcurl curl
 - termux-setup-storage
 - pkg install && pkg update && pkg upgrade
 - pkg install C++
-- git clo https://github.com/pormes/MR.Pormes17_OMT_ZSH.git
+- git clone https://github.com/pormes/MR.Pormes17_OMT_ZSH.git
 - ls
 - cd MR.Pormes17_OMT_ZSH
 - ls
